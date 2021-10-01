@@ -1,0 +1,1715 @@
+Abalistes filamentosus	605, 606
+Abalistes stellatus	606
+Ablabys macracanthus	363
+Ablabys taenianotus	363
+Ablennes hians	335
+Abudefduf bengalensis	521
+Abudefduf sordidus	521
+Abudefduf spp.	521
+Abudefduf vaigiensis	521
+Acanthaphritis barbata	536
+Acanthephyra eximia	50
+Acanthephyra fimbriata	27
+Acanthocepola abbreviata	515
+Acanthocepola indica	515
+Acanthocybium solandri	263, 569
+Acanthopagrus berda	473
+Acanthurus	261
+Acanthurus dussumieri	558
+Acanthurus leucosternon	558
+Acanthurus lineatus	558
+Acanthurus mata	559
+Acanthurus nigricauda	559
+Acanthurus pyroferus	559, 560
+Acanthurus tennentii	560
+Acanthurus thompsoni	560
+Acanthurus tristis	560
+Acanthurus xanthopterus	561
+Acentrogobius cyanomos	546
+Acentrogobius sp.	547
+Acetes indicus	49
+Acetes japonicus	49
+Acetes spp.	6, 23
+Acreichthys tomentosus	610
+Acropoma	243
+Acropoma argentistigma	380
+Acropoma lacrima	380
+Acropoma splendens	380
+Acropora	512
+Actinopyga echinites	149
+Actinopyga lecanora	149
+Aesopia cornuta	595
+Aethaloperca rogaa	381
+Aetobatus flagellum	213
+Aetobatus ocellatus	213
+Aetomylaeus maculatus	212
+Aetomylaeus nichofii	212
+Aetomylaeus spp.	212
+Aetomylaeus vespertilio	212
+Albula oligolepis	270
+Aldrovandia	222
+Alectis	248
+Alectis ciliaris	415
+Alectis indica	416
+Alepes djedaba	416
+Alepes kleini	416
+Alepes melanoptera	417
+Alepocephalus	227
+Allenbatrachus grunniens	328
+Allenbatrachus reticulatus	328
+Alopias pelagicus	164
+Alopias superciliosus	164
+Aluterus	268
+Aluterus monoceros	610
+Aluterus scriptus	610
+Amanses scopas	611
+Ambassis cf. nalua	243
+Amblygaster leiogaster	288
+Amblygaster sirm	288
+Amblyotrypauchen arctocephalus	547
+Ammodytoides cf. xanthops	533
+Ammodytoides xanthops	8
+Amphioctopus aegina	137, 138
+Amphioctopus marginatus	137
+Amphioctopus neglectus	138, 139
+Amphioctopus rex	138, 139
+Amphioctopus siamensis	139
+Anacanthus	268
+Anacanthus barbatus	611
+Anampses caeruleopunctatus	522
+Ancistrocheirus lesueurii	131
+Anguilla bengalensis	287
+Anguilla bengalensis bengalensis	287
+Anguilla bengalensis labiata	287
+Anguilla bicolor	287
+Anguilla bicolor bicolor	287
+Anguilla bicolor pacifica	287
+Anodontostoma chacunda	288, 289
+Anodontostoma thailandiae	289
+Anoplogaster cornuta	236
+Anoxypristis cuspidata	193
+Antennarius hispidus	330
+Antennatus nummifer	330
+Antigonia	265
+Antigonia indica	581
+Antigonia ovalis	581
+Antigonia sp.	582
+Antigonia undulata	582
+Anyperodon leucogrammicus	382
+Aphareus furca	444
+Aphareus rutilans	444
+Apistus carinatus	362
+Apogonichthyoides cf. maculipinnis	559
+Apogonichthyoides enigmaticus	559
+Apogonichthyoides miniatus	8, 246
+Apogonichthyoides nigripinnis	404
+Apogonichthyoides sialis	404
+Apogon hyalosoma	8
+Apogon sp.	404
+Apolemichthys xanthurus	513
+Aprion virescens	445
+Apristurus investigatoris	167, 168
+Apristurus macrostomus	168
+Argonauta argo	141
+Argonauta hians	142
+Argyropelecus aculeatus	228
+Ariomma indicum	580
+Ariosoma cf. gnanadossi	282
+Aristaeomorpha foliacea	29
+Aristaeopsis edwardsiana	29
+Aristeus alcocki	30
+Aristeus mabahissae	30
+Aristeus virilis	31
+Arius arius	306
+Arius gagora	306
+Arius maculatus	306
+Arius subrostratus	307
+Arius venosus	307
+Arnoglossus japonicus	587, 588
+Arnoglossus macrolophus	587
+Arothron hispidus	616
+Arothron immaculatus	617
+Arothron manilensis	617
+Arothron mappa	617
+Arothron meleagris	618
+Arothron nigropunctatus	618
+Arothron stellatus	618
+Aseraggodes cyaneus	595
+Ashtoret lunaris	73
+Asquamiceps	227
+Astronesthes lamellosus	228
+Astronesthes martensii	228
+Ateleopus indicus	311
+Atelomycterus marmoratus	168
+Atherinomorus pinguis	334
+Atrobucca antonbruun	487
+Atropus atropos	417
+Atule mate	418
+Aulostomus chinensis	355
+Aulotrachichthys sp.	347
+Aurigequula fasciata	436
+Aurigequula longispina	436
+Austriella corrugata	97
+Auxis	263
+Auxis rochei	569, 570
+Auxis thazard	570
+Avicennia	2
+Avocettina infans	286
+Babylonia areolata	117
+Bahaba chaptis	488
+Balistapus undulatus	606
+Balistoides conspicillum	606
+Balistoides viridescens	607
+Bathyclupea hoskynii	508
+Bathycongrus nasicus	282
+Bathymyrus echinorhynchus	282
+Bathypterois atricolor	229
+Bathypterois guentheri	229
+Bathytoshia lata	204
+Bathyuroconger cf. vicinus	283
+Batrachocephalus mino	307
+Bembradium	241
+Bembradium cf. magnoculum	367
+Bembras andamanensis	368
+Bembras leslieknappi	368
+Bembras spp.	368
+Bembrops	537
+Bembrops caudimacula	537, 538
+Bembrops platyrhynchus	538
+Bembrops sp.	538
+Benthobatis cf. yangi	198
+Benthobatis moresbyi	198
+Benthobatis yangi	8
+Benthosema fibulatum	317, 318
+Benthosema pterotum	318
+Beryx long	349
+Beryx splendens	349
+Blachea xenobranchialis	283
+Bleekeria mitsukurii	533
+Bleekeria sp. A	534
+Bleekeria sp. B	534
+Bodianus	256
+Bodianus leucostictus	523
+Bodianus mesothorax	523
+Bohadschia vitiensi	150
+Boleophthalmus boddarti	547
+Bolinichthys supralateralis	318
+Bothus myriaster	588
+Bothus pantherinus	588
+Brachiopods	143
+Brachirus annularis	595
+Brachirus orientalis	8
+Brachypleura novaezeelandiae	582
+Brachypterois serrulifer	358
+Brama dussumieri	442
+Brama orcini	443
+Brama pauciradiata	443
+Brama sp.	443
+Branchiostegus sawakinensis	413
+Bregmaceros mcclellandi	320
+Brevitrygon heterura	205
+Brevitrygon imbricata	205
+Bruguiera	2
+Bufoceratias thele	234
+Butis koilomatodon	546
+Bythaelurus hispidus	168
+Caesio caerulaurea	458
+Caesio cuning	458
+Caesio lunaris	459
+Caesio spp.	458
+Caesio teres	459
+Caesio xanthonota	459
+Calappa bilineata	70
+Calappa calappa	71
+Calappa clypeata	66
+Calappa exanthematosa	71
+Calappa lophos	72
+Calappa pustulosa	72
+Callionymus carebares	544
+Callionymus cf. gardineri	544
+Callionymus kotthausi	544
+Callionymus margaretae	545
+Callionymus meridionalis	545
+Callistoctopus ornatus	139
+Cantherhines	268
+Cantherhines dumerilii	611, 612
+Cantherhines fronticinctus	612
+Cantherhines pardalis	612
+Canthidermis maculatus	607
+Canthigaster papua	619
+Canthigaster petersii	619
+Canthigaster punctata	619
+Canthigaster valentini	620
+Carangoides armatus	418
+Carangoides bajad	418
+Carangoides chrysophrys	419
+Carangoides coeruleopinnatus	419
+Carangoides dinema	419
+Carangoides equula	420
+Carangoides ferdau	420
+Carangoides fulvoguttatus	420
+Carangoides gymnostethus	421
+Carangoides hedlandensis	421
+Carangoides malabaricus	421
+Carangoides oblongus	422
+Carangoides orthogrammus	422
+Carangoides plagiotaenia	422
+Carangoides praeustus	423
+Carangoides talamparoides	423
+Caranx	248
+Caranx heberi	423
+Caranx ignobilis	424
+Caranx lugubris	424
+Caranx melampygus	424
+Caranx sexfasciatus	425
+Caranx tille	425
+Carcharhinus albimarginatus	173
+Carcharhinus altimus	173
+Carcharhinus amblyrhynchoides	174
+Carcharhinus amblyrhynchos	174
+Carcharhinus amboinensis	174
+Carcharhinus brevipinna	175
+Carcharhinus dussumieri	175
+Carcharhinus falciformis	175
+Carcharhinus leucas	176
+Carcharhinus limbatus	176
+Carcharhinus longimanus	176
+Carcharhinus macloti	177
+Carcharhinus melanopterus	177
+Carcharhinus plumbeus	177
+Carcharhinus sealei	178
+Carcharhinus sorrah	178
+Carcharias taurus	163
+Carinosquilla spinosa	16
+Carpilius convexus	74
+Carpilius maculatus	74, 75
+Catenella	2
+Centriscus scutatus	356
+Centroberyx druzhinini	349
+Centrodraco ornatus	546
+Centrophorus granulosus	161, 162
+Centrophorus moluccensis	162
+Centrophorus uyato	162
+Centropyge	559
+Centropyge flavipectoralis	514
+Centroscyllium ornatum	162
+Cephalopholis argus	382
+Cephalopholis boenak	382
+Cephalopholis formosa	383
+Cephalopholis microprion	383
+Cephalopholis miniata	383
+Cephalopholis polyspila	384
+Cephalopholis sonnerati	384
+Cephalopsetta ventrocellata	583, 585
+Cephaloscyllium cf. silasi	169
+Cephaloscyllium silasi	8
+Cerithidea obtusa	109
+Chaenogaleus macrostoma	172
+Chaetodon andamanensis	511
+Chaetodon collare	511
+Chaetodon triangulum	512
+Chaetodon xanthocephalus	512
+Champsodon longipinnis	533
+Chanos chanos	304
+Charybdis	6
+Charybdis annulata	77
+Charybdis feriatus	78
+Charybdis hellerii	78
+Charybdis natator	79
+Charybdis riversandersoni	79
+Chascanopsetta lugubris	589
+Chauliodus sloanei	228
+Chaunax aff. nebulosus	331
+Chaunax apus	330, 331
+Chaunax fimbriatus	331
+Chaunax multilepis	331
+Chaunax nebulosus	331
+Cheilinus chlorourus	523
+Cheilopogon abei	341
+Cheilopogon cyanopterus	341
+Cheilopogon furcatus	341
+Cheilopogon intermedius	342
+Cheilopogon spilonotopterus	342
+Cheilopogon spilopterus	342
+Cheilopogon suttoni	343
+Chelidoperca investigatoris	384
+Chelidoperca cf. occipitalis	385
+Chelidoperca sp. A	385
+Chelidoperca sp. B	386
+Chelidoperca stella	385
+Chelon macrolepis	516
+Chelon melinopterus	516
+Chelonodontops alvheimi	621
+Chelonodontops alvheimi	620
+Chelonodontops leopardus	620
+Chelonodontops patoca	621
+Chelon parsia	517
+Chelon planiceps	517
+Chelon subviridis	517
+Chicoreus brunneus	114
+Chicoreus ramosus	115
+Chicoreus torrefactus	115
+Chilomycterus reticulatus	625
+Chiloscyllium burmensis	165
+Chiloscyllium griseum	165
+Chiloscyllium hasseltii	165
+Chiloscyllium indicum	166
+Chiloscyllium punctatum	166
+Chimaera sp.	218
+Chirocentrus dorab	302
+Chirocentrus nudus	302
+Chiroteuthis veranyi	131
+Chlorophthalmus acutifrons	312
+Chlorophthalmus corniger	312
+Chlorurus bleekeri	528, 529
+Chlorurus capistratoides	528
+Chlorurus strongylocephalus	529
+Chlorurus troschelii	529
+Choerodon	256
+Choerodon robustus	524
+Chonerhinos naritus	621
+Chriodorus	235
+Chrionema chryseres	8, 538
+Chromis gunting	522
+Chromis cf. gunting	522
+Chrysochir aureus	488
+Chtenopteryx sicula	132
+Cirrhitus pinnulatus	254
+Cistopus cf. indicus	140
+Cloridopsis scorpio	16
+Clorurus sordidus	529
+Clupanodon thrissa	289
+Cociella punctata	373
+Cociella sp.	373
+Coelophrys micropus	331
+Coelorinchus cf. mycterismus	321
+Coelorinchus flabellispinis	320
+Coilia dussumieri	295
+Coilia neglecta	295
+Coilia ramcarati	295
+Coilia reynaldi	295
+Coilia spp.	295
+Coloconger raniceps	276
+Conger cinereus	283
+Congresox talabanoides	279
+Congresox talabon	279
+Congresox talabonoides	279
+‘Congromuraena’	284
+‘Congromuraena’ musteliceps	284
+Cookeolus japonicus	401
+Coris batuensis	524
+Corythoichthys	239
+Coryphaena equiselis	435
+Coryphaena hippurus	435
+Coryphaenoides macrolophus	321
+Crassostrea belcheri	96
+Crenidens macracanthus	473
+Crenimugil crenilabis	518
+Cromileptes altivelis	386
+Crossorhombus azureus	589
+Cruriraja andamanica	203
+Ctenacis cf. fehlmanni	169
+Ctenochaetus binotatus	561
+Ctenochaetus striatus	561
+Cubiceps kotlyari	578
+Cubiceps pauciradiatus	578
+Cubiceps whiteleggii	578
+Cyclichthys orbicularis	626
+Cyclichthys spilostylus	626
+Cymodocea rotundata	3, 4
+Cymodocea serrulata	3
+Cynoglossus arel	598
+Cynoglossus bilineatus	600
+Cynoglossus carpenteri	598
+Cynoglossus cynoglossus	599
+Cynoglossus kopsii	599
+Cynoglossus lingua	599
+Cynoglossus monopus	600
+Cynoglossus puncticeps	600
+Cynoglossus quadrilineatus	600
+Cynoglossus sp.	601
+Cynoglossus spp.	6
+Cypraea tigris	112
+Cypselurus naresii	343
+Cypselurus oligolepis	343
+Cypselurus opisthopus	344
+Cypselurus poecilopterus	344
+Cyttopsis	237
+Cyttopsis rosea	354
+Dactyloptena macracantha	366
+Dactyloptena orientalis	367
+Dagetichthys albomaculatus	596
+Dagetichthys commersonnii	596
+Dasyscopelus brachygnathos	230
+Daysciaena albida	488
+Decapterus	248, 426, 427
+Decapterus akaadsi	425, 427
+Decapterus kurroides	426
+Decapterus macarellus	426
+Decapterus macrosoma	426
+Decapterus muroadsi	427
+Decapterus russelli	427
+Decapterus smithvanizi	427
+Decodon pacificus	8, 524
+Dendrochirus zebra	358
+Dendrophysa russelii	489
+Deveximentum hanedai	436
+Deveximentum insidiator	437
+Deveximentum megalolepis	437
+Diagramma melanacrum	465
+Diagramma picta	466
+Diagramma spp.	465
+Diaphus regani	230
+Diaphus thiollierei	230
+Diaphus watasei	230
+Diceratias bispinosus	234
+Dicrolene aff. mesogramma	323
+Dicrolene aff. nigricaudis	323
+Dicrolene mesogramma	323
+Dicrolene nigricaudis	323
+Dicrolene sp.	323
+Dictyosquilla foveolata	17
+Diodon eydouxii	626
+Diodon holocanthus	627
+Diodon hystrix	627
+Diodon liturosus	627
+Diploprion bifasciatum	386
+Dipterygonotus balteatus	460
+Dipturus johannisdavisi	201
+Dipturus sp.	202
+Diretmichthys parini	348
+Dolomena variabilis	110
+Drepane longimana	510
+Drepane punctata	510
+Dugong dugon	3
+Dussumieria acuta	294
+Dussumieria elopsoides	294
+Dysomma bucephalus	271
+Dysomma muciparus	271
+Dysommina sp.	271
+Ebosia falcata	358
+Echeneis naucrates	415
+Echidna nebulosa	272
+Echinorhinus brucus	8, 160
+Echinorhinus cf. brucus	160
+Egglestonichthys melanoptera	548
+Elagatis bipinnulata	428
+Elates ransonnettii	373
+Eleutheronema tetradactylum	496, 497
+Eleutheronema tridactylum	497
+Ellochelon vaigiensis	518
+Elops machnata	270
+Encephaloides armstrongi	75
+Encrasicholina heteroloba	296
+Encrasicholina punctifer	296
+Engyprosopon grandisquama	589, 590
+Engyprosopon maldivense	590
+Enhalus acoroides	3, 4
+Entermopha	2
+Ephippus orbis	552
+Epigonus thai	411
+Epinephelus	7
+Epinephelus amblycephalus	387
+Epinephelus areolatus	387
+Epinephelus bleekeri	387
+Epinephelus chlorostigma	388
+Epinephelus coeruleopunctatus	388
+Epinephelus coioides	388
+Epinephelus diacanthus	389
+Epinephelus epistictus	389
+Epinephelus erythrurus	389
+Epinephelus fasciatus	390
+Epinephelus faveatus	390
+Epinephelus fuscoguttatus	390
+Epinephelus heniochus	391
+Epinephelus lanceolatus	391
+Epinephelus latifasciatus	391
+Epinephelus malabaricus	392
+Epinephelus merra	392
+Epinephelus multinotatus	392
+Epinephelus ongus	393
+Epinephelus quoyanus	393
+Epinephelus radiatus	393
+Epinephelus rivulatus	394
+Epinephelus sexfasciatus	394
+Epinephelus spp.	5
+Epinephelus tauvina	394
+Epinephelus undulosus	395
+Episesarma	85
+Episesarma chentongense	85
+Episesarma palawanense	85
+Episesarma singaporense	85
+Episesarma versicolor	85
+Equulites elongatus	437
+Equulites leuciscus	438
+Equulites oblongus	438
+Eridacnis radcliffei	169
+Erisphex aniarus	8, 366
+Erisphex cf. aniarus	366
+Erugosquilla woodmasoni	17
+Erythrocles schlegelii	444
+Escualosa thoracata	289
+Etelis	250, 445
+Etelis carbunculus	445
+Etelis coruscans	445
+Etelis radiosus	446
+Eubleekeria jonesi	438
+Euleptorhamphus viridis	337
+Eupleurogrammus glossodon	567, 568
+Eupleurogrammus muticus	568
+Euprymna cf. morsei	125
+Eusphyra blochii	182
+Euthynnus affinis	570
+Exocoetus monocirrhu	344
+Exocoetus volitans	345
+Exopalaemon styliferus	51
+Facciolella sp.	281
+Filimanus similis	497
+Filimanus xanthonema	497
+Fistularia commersonii	356
+Fistularia petimba	356
+Galene bispinosa	77
+Galeocerdo cuvier	178
+Gavialiceps taeniola	284
+Gephyroberyx sp.	347
+Gerres erythrourus	463
+Gerres filamentosus	463
+Gerres longirostris	463
+Gerres macracanthus	464
+Gerres oblongus	464
+Gerres oyena	464
+Gerres phaiya	465
+Glaucostegus granulatus	196
+Glaucostegus obtusus	196
+Glaucostegus thouin	197
+Glaucostegus typus	197
+Glossanodon sp.	311
+Glossogobius giuris	548
+Glyphis gangeticus	179
+Glyphis siamensis	179
+Glyptophidium argenteum	323
+Gnathanodon speciosus	428
+Gnathodentex aurolineatus	474
+Gobiinae sp.	548
+Grammatobothus polyophthalmus	590
+Grammatonotus sp.	399
+Grammatorcynus bilineatus	570
+Grammoplites knappi	374
+Grammoplites scaber	374
+Grapsus albolineatus	84
+Grapsus tenuicrustatus	85
+Grimalditeuthis bonplandi	132
+Gymnocaesio gymnoptera	460
+Gymnocranius elongatus	474
+Gymnocranius grandoculis	475
+Gymnocranius griseus	475
+Gymnocranius microdon	475
+Gymnocranius robinsoni	475
+Gymnosarda unicolor	571
+Gymnothorax cf. sokotrensis	274
+Gymnothorax fimbriatus	272
+Gymnothorax flavimarginatus	273
+Gymnothorax isingteena	273
+Gymnothorax javanicus	273
+Gymnothorax minor	274
+Gymnothorax reticularis	274
+Gymnothorax thyrsoideus	275
+Gymnothorax tile	223
+Gymnura poecilura	204
+Gymnura zonura	204
+Halichoeres	256
+Halichoeres argus	525
+Halichoeres bicolor	525
+Halichoeres leucoxanthus	525
+Halichoeres timorensis	526
+Halicmetus cf. ruber	332
+Halieutaea coccinea	332
+Halieutaea fumosa	332
+Halieutaea indica	333
+Halieutaea sp.	333
+Halimochirurgus	267
+Halimochirurgus centriscoides	602
+Haliporus taprobanensis	47
+Halodule pinifolia	3, 4
+Halodule uninervis	3, 4
+Halophila beccarii	3
+Halophila decipiens	3
+Halophila minor	4
+Halophila ovalis	3, 4
+Hapalogenys	466, 251
+Hapalogenys bengalensis	466
+Hapalogenys filamentosus	466
+Hapalogenys merguiensis	466
+Harpadon nehereus	312
+Harpadon nudus	313
+Harpadon sp.	313
+Harpadon spp.	312
+Harpadon squamosus	313
+Harpago chiragra	110
+Harpiosquilla	19
+Harpiosquilla annandalei	18
+Harpiosquilla harpax	18
+Harpiosquilla melanoura	19
+Harpiosquilla raphidea	19
+Hemiarius sona	308
+Hemiarius sumatranus	308
+Hemigaleus microstoma	172
+Hemigymnus fasciatus	526
+Hemipristis elongata	172
+Hemiramphus	338
+Hemiramphus archipelagicus	337
+Hemiramphus far	338
+Hemiramphus lutkei	338
+Hemiramphus spp.	337, 338
+Heniochus acuminatus	512, 513
+Heniochus diphreutes	513
+Heptranchias perlo	160
+Herklotsichthys quadrimaculatus	290
+Heterocarpus chani	53
+Heterocarpus sibogae	53
+Heterocarpus woodmasoni	54
+Heteromycteris oculus	596
+Hexanchus griseus	160
+Hexanematichthys sagor	308
+Hexatrygon bickelli	203
+Himantura leoparda	205, 206
+Himantura uarnak	206
+Himantura undulata	206
+Hippocampus kuda	357
+Hippocampus	239
+Hippopus	87
+Hippopus hippopus	98
+Hirundichthys oxycephalus	345
+Hirundichthys speculiger	345
+Histiopterus typus	515
+Histioteuthis hoylei	133
+Holothuria lessoni	6, 150
+Holothuria scabra	6, 6
+Holothuria scabra var. versicolor	150
+Holothuria spinifera	151
+Holoturia (Metriatyla) lessoni	146
+Holoturia (Metriatyla)scabra	146
+Hoplichthys gregoryi	372
+Hoplostethus druzhinini	8, 348
+Hoplostethus shubnikovi	348
+Howella cf. brodiei	379
+Hydrolagus africanus	8, 218
+Hydrolagus cf. africanus	218
+Hypopleuron caninum	324
+Hyporhamphus	338
+Hyporhamphus affinis	338, 339
+Hyporhamphus balinensis	339
+Hyporhamphus dussumieri	339, 340
+Hyporhamphus limbatus	339
+Hyporhamphus quoyi	340
+Hyporhamphus spp.	339
+Iago garricki	170
+Iago omanensis	170, 171
+Iago sp. A	171
+Ibacus novemdentatus	63
+Ichthyscopus lebeck	534
+Ilisha megaloptera	303
+Ilisha melastoma	303
+Ilishas	226, 303
+Ilisha sirishai	303
+Inegocia japonica	374
+Iniistius	256
+Iniistius bimaculatus	526
+Iniistius pavo	527
+Inimicus	364
+Inimicus cuvieri	364
+Inimicus sinensis	364
+Istigobius diadema	259
+Istiompax indica	575
+Istiophorus	264
+Istiophorus platypterus	576
+Isurus oxyrinchus	164
+Jaydia novaeguineae	405
+Jaydia poeciloptera	405
+Jaydia queketti	405
+Jaydia smithi	406
+Jaydia striata	406
+Jaydia truncata	406
+Jenkinsia	225
+Johnius amblycephalus	489–492
+Johnius belangerii	489
+Johnius borneensis	490, 491
+Johnius carouna	490
+Johnius carutta	490
+Johnius coitor	491
+Johnius dussumieri	491
+Johnius macropterus	491
+Johnius macrorhynus	492
+Johnius plagiostoma	492
+Johnius spp.	490
+Kajikia audax	576
+Karalla daura	439
+Karalla dusssumieri	440
+Katsuwonus pelamis	571
+Kempella stridulans	20
+Ketengus typus	309
+Kumococius rodericensis	375
+Kurtus indicus	552
+Kyphosus bigibbus	509
+Kyphosus cinerascens	509
+Kyphosus vaigiensis	510
+Labeo rohita	5
+Lactarius lactarius	414
+Lactoria cornuta	614
+Lactoria diaphana	614
+Laeops clarus	8
+Laeops guentheri	590, 591
+Laeops kitaharae	591
+Laeops macrophthalmus	591
+Laevistrombus canarium	111
+Lagocephalus cheesemanii	621
+Lagocephalus guentheri	622, 623
+Lagocephalus inermis	622
+Lagocephalus lagocephalus	622
+Lagocephalus lunaris	623
+Lagocephalus spadiceus	623
+Lagocephalus suezensis	623
+Lambis lambis	111
+Lamiopsis	159
+Lamiopsis temminckii	179
+Lampadena luminosa	318
+Lampanyctus cf. nobilis	319
+Lamprogrammus fragilis	324
+Lates calcarifer	5, 379
+Leiognathus equula	440
+Lepidamia natalensis	562
+Lepidotrigla longipinnis	368
+Lepidotrigla omanensis	8, 369
+Lepidotrigla psolokerkos	369
+Lepidotrigla spp.	368
+Leptojulis chrysotaenia	527
+Leptomelanosoma indicum	6, 498
+Lepturacanthus savala	6, 568, 569
+Lestidiops mirabilis	230
+Lestrolepis intermedius	230
+Lestrolepis japonica	230
+Lethrinus	7, 251
+Lethrinus atkinsoni	476
+Lethrinus erythropterus	476
+Lethrinus harak	476
+Lethrinus lentjan	477
+Lethrinus microdon	477
+Lethrinus nebulosus	477
+Lethrinus obsoletus	478
+Lethrinus olivaceus	478
+Lethrinus ornatus	478
+Lethrinus rubrioperculatus	479
+Lethrinus spp.	476
+Lingula anatina	6, 145
+Linuparus somniosus	55, 58
+Liocranchia reinhardti	133
+Lipocheilus carnolabrum	446
+Lobotes surinamensis	462
+Loliolus (Loliolus) hardwickei	126
+Loliolus (Nipponololigo) beka	127
+Lophiodes mutilus	329
+Lophiodes triradiatus	329
+Lophiomus setigerus	329
+Loxodon macrorhinus	179
+Lutjanus	7, 250
+Lutjanus argentimaculatus	446
+Lutjanus bengalensis	447
+Lutjanus biguttatus	447
+Lutjanus bohar	447
+Lutjanus carponotatus	448
+Lutjanus decussatus	448
+Lutjanus ehrenbergii	448
+Lutjanus erythropterus	449
+Lutjanus fulviflamma	449
+Lutjanus fulvus	449
+Lutjanus gibbus	450
+Lutjanus indicus	450
+Lutjanus johnii	450
+Lutjanus kasmira	451
+Lutjanus lemniscatus	451
+Lutjanus lunulatus	451
+Lutjanus lutjanus	452
+Lutjanus madras	452
+Lutjanus malabaricus	452
+Lutjanus monostigma	453
+Lutjanus quinquelineatus	453
+Lutjanus rivulatus	453
+Lutjanus sebae	454
+Lutjanus spp.	446
+Lutjanus timorensis	454
+Lutjanus vitta	454
+Lyncina vitellus	112
+Lysiosquillina maculata	15
+Macolor niger	455
+Macrobrachium	28
+Macrobrachium equidens	51
+Macrobrachium lar	51
+Macrobrachium malcolmsonii	52
+Macrobrachium rosenbergii	52
+Macrorhamphosodes	267
+Macrorhamphosodes platycheilus	602
+Maculabatis gerrardi	206
+Maculabatis pastinacoides	207
+Magnisudis indica	230
+Makaira	264
+Makaira mazara	576
+Makaira nigricans	576
+Malacanthus brevirostris	413
+Malacanthus latovittatus	413
+Malacocephalus laevis	321
+Malleus albus	94
+Malleus malleus	95
+Malleus regula	95
+Malthopsis cf. annulifera	333
+Malthopsis gigas	334
+Malthopsis cf. lutea	334
+Mancinella alouina	116
+Marcia opima	101
+Marleyella bicolorata	593
+Masturus lanceolatus	628
+Matuta planipes	73
+Matuta victor	74
+Mauritia eglantina	113
+Mauritia mauritiana	113
+Megalaspis cordyla	428
+Megalops cyprinoides	270
+Megatrygon microps	207
+Megokris sedili	31
+Melanonus zugmayeri	232
+Melanostomias sp.	228
+Melichthys indicus	607
+Mene maculata	435
+Mephisto albomaculosus	602
+Mephisto fraserbrunneri	602, 603
+Meretrix meretrix	102
+Metanephrops andamanicus	55, 57
+Metapenaeopsis	24
+Metapenaeopsis barbata	25
+Metapenaeopsis menoui	25
+Metapenaeopsis palmensis	32
+Metapenaeopsis sinica	32
+Metapenaeopsis stridulans	33
+Metapenaeus	24, 33
+Metapenaeus affinis	33
+Metapenaeus brevicornis	34
+Metapenaeus dobsoni	34
+Metapenaeus ensis	35
+Metapenaeus lysianassa	35
+Metapenaeus monoceros	36
+Metapenaeus tenuipes	36
+Minous	365
+Minous coccineus	365
+Minous inermis	365
+Minous monodactylus	365
+Minous radiatus	366
+Miyakella nepa	20
+Mobula alfredi	214
+Mobula birostris	214
+Mobula kuhlii	215
+Mobula mobular	215
+Mobula spp.	7
+Mobula tarapacana	215
+Mobula thurstoni	216
+Mola alexandrini	628
+Mola mola	628
+Mola ramsayi	628
+Monocentris japonica	347
+Monodactylus argenteus	511
+Monomia gladiator	80
+Monomitopus sp.	324
+Monopterus cuchia	239
+Monotaxis grandoculis	479
+Moolgarda	518
+Moolgarda cunnesius	518, 520
+Moolgarda engeli	519
+Moolgarda pedaraki	519
+Moolgarda perusii	519
+Moolgarda seheli	520
+Moolgarda speigleri	520
+Moringua raitaborua	286
+Moringua sp.	286
+Mugil cephalus	520
+Mulloidichthys	500
+Mulloidichthys ayliffe	500, 501
+Mulloidichthys flavolineatus	501
+Mulloidichthys vanicolensis	501
+Muraenesox bagio	280
+Muraenesox cinereus	280
+Murex ternispina	116
+Mustelus mosis	8, 171
+Mustelus stevensi	171
+Myripristis botche	350
+Myripristis hexagona	350
+Myripristis murdjan	350
+Myripristis spp.	349
+Narcine atzi	198
+Narcine brevilabiata	199, 200
+Narcine lingula	199
+Narcine maculata	199
+Narcine sp.	200
+Narcine spp.	198
+Narcine timlei	200
+Narke dipterygia	200
+Naso	261
+Naso annulatus	562
+Naso unicornis	562
+Naucrates ductor	429
+Nautilus pompilius	120
+Nebrius ferrugineus	167
+Neenchelys buitendijki	276
+Neenchelys cheni	276
+Neenchelys spp.	276
+Negaprion	159
+Negaprion acutidens	180
+Nemapteryx nenga	309
+Nematalosa galathae	291
+Nematalosa galatheae	290
+Nematalosa nasus	291
+Nematopalaemon	28
+Nematopalaemon tenuipes	52
+Nemichthys scolopaceus	287
+Nemipterus	251
+Nemipterus bipunctatus	480
+Nemipterus furcosus	480
+Nemipterus hexodon	480
+Nemipterus japonicus	481
+Nemipterus marginatus	481
+Nemipterus nematophorus	481
+Nemipterus peronii	482
+Nemipterus randalli	482
+Nemipterus zysron	482
+Neobathyclupea melanoptera	509
+Neobythites aff. pallidus	325
+Neobythites alcocki	325
+Neobythites andamanensis	325
+Neobythites pallidus	325
+Neobythites steatiticus	326
+Neocentropogon affinis	363
+Neoepinnula	262
+Neoepinnula orientalis	566
+Neoharriotta pinnata	218
+Neomerinthe erostris	359
+Neomerinthe spp.	359
+Neoniphon opercularis	351
+Neoniphon sammara	351
+Neoniphon spp.	351
+Neoscopelus ‘microchir’	317
+Neoscopelus microchir	8
+Neotrygon caeruleopunctata	207
+Nephropsis carpenteri	57, 58
+Nephropsis stewarti	58
+Nesiarchus nasutus	262, 566
+Nettastoma solitarium	281
+Netuma bilineata	309
+Netuma thalassina	310
+Nibea maculata	492
+Nibea soldado	493
+Nomeus gronovii	579
+Notacanthus	223
+Nototodarus hawaiiensis	134
+Nuchequula blochii	440
+Nuchequula gerreoides	441
+Nuchequula longicornis	8, 441
+Nuchequula spp.	440
+Obliquogobius cometes	549
+Octopus	118
+Octopus cf. vulgaris	141
+‘Octopus’ cyanea	140
+Odontanthias rhodopeplus	395
+Odontodactylus cultrifer	14
+Odontodactylus japonicus	14
+Odontodactylus scyllarus	15
+Odonus niger	608
+Oneirodes	234
+Onigocia macrolepis	375
+Onychoteuthis banksii	136
+Ophichthus cephalozona	277
+Ophichthus lithinus	277
+Ophichthus naga	277
+Ophichthus nansen	278
+Ophidion	326
+Ophidion sp.	326
+Opisthopterus tardoore	304
+Opistognathus rosenbergii	400
+Oplophorus gracilirostris	27
+Oratosquillina interrupta	21
+Oratosquillina nordica	21
+Oratosquillina perpensa	22
+Orbiraja powelli	202
+Ornithoteuthis volatilis	135
+Osteogeneiosus militaris	310
+Ostichthys acanthorhinus	351
+Ostichthys convexus	352
+Ostichthys daniela	352
+Ostichthys japonicus	352
+Ostorhinchus apogonoides	407
+Ostorhinchus bryx	407
+Ostorhinchus cookii	407
+Ostorhinchus cyanosoma	408
+Ostorhinchus fleurieu	408
+Ostorhinchus fukuii	409
+Ostorhinchus gularis	409
+Ostorhinchus nigrocincta	409
+Ostorhinchus pleuron	409
+Ostorhinchus quadrifasciatus	410
+Ostracion cubicus	614
+Ostracion meleagris	615
+Ostracion nasus	615
+Ostracion rhinorhynchos	615
+Ostracoberyx dorygenys	398
+Otolithes cuvieri	493
+Otolithes ruber	6, 493
+Otolithoides biauritus	494
+Otolithoides pama	494
+Owstonia nudibucca	516
+Oxymonacanthus	268
+Oxymonacanthus longirostris	612
+Oxyporhamphus	235
+Oxyporhamphus convexus	340
+Oxyurichthys cf. auchenolepis	549
+Palinurus	6
+Palinustus waguensis	55, 59
+Pampus argenteus	580, 581
+Pampus candidus	580
+Pampus chinensis	581
+Pampus spp.	6
+Pangasius cf. pangasius	305
+Panna heterolepis	494
+Panulirus	55
+Panulirus homarus	55, 59
+Panulirus longipes	60
+Panulirus ornatus	55, 60, 62
+Panulirus penicillatus	61
+Panulirus polyphagus	55, 61
+Panulirus versicolor	55, 62
+Parabathymyrus sp.	284
+Paracaesio xanthura	455
+Parachaeturichthys polynema	549
+Paragaleus longicaudatus	173
+Paramaja gibba	76
+Parambassis cf. rang	243
+Paramonacanthus pusillus	613
+Paramonacanthus tricuspis	613
+Paranibea cf. semiluctuosa	495
+Paranibea semiluctuosa	8
+Parapenaeopsis	24, 25
+Parapenaeopsis (Alcockpenaeopsis) hungerfordii	37
+Parapenaeopsis (Batepenaeopsis) tenella	37
+Parapenaeopsis (Ganjampenaeopsis) uncta	38
+Parapenaeopsis (Kishinouyepenaeopsis) cornuta	38
+Parapenaeopsis (Mierspenaeopsis) hardwickii	39
+Parapenaeopsis (Mierspenaeopsis) sculptilis	40
+Parapenaeopsis (Parapenaeopsis) coromandelica	40
+Parapenaeopsis (Parapenaeopsis) stylifera	40
+Parapenaeus longipes	41
+Parapeneopsis (Kishinouyepenaeopsis) maxillipedo	39
+Parapercis alboguttata	539
+Parapercis bimacula	539
+Parapercis caudopellucida	539
+Parapercis clathrata	539
+Parapercis filamentosa	540
+Parapercis hexophtalma	540
+Parapercis millepunctata	540
+Parapercis ommatura	541
+Parapercis rubricaudalis	541
+Parapercis snyderi	541
+Parapercis sp. 1	542
+Parapercis sp. 2	543
+Parapercis sp. 3	543
+Parapercis striolata	543
+Parapercis tetracantha	542
+Parapercis xanthozona	542
+Paraplagusia bilineata	601
+Paraplagusia bleekeri	601
+Parapriacanthus sp.	507
+Parapterois heterura	359
+Parascolopsis	251
+Parascolopsis aspinosa	483
+Parascolopsis aff. qantasi	484
+Parascolopsis eriomma	483
+Parascolopsis inermis	483
+Parascolopsis quantasi	484
+Parascolopsis sp.	484
+Parascombrops glossodon	380, 381
+Parascombrops sp.	381
+Parascorpaena	359
+Parascorpaena picta	359
+Parastromateus niger	429
+Paratrypauchen microcephalus	550
+Pardachirus pavoninus	597
+Parexocoetus brachypterus	346
+Parexocoetus mento	346
+Parupeneus spp.	501
+Parupeneus barberinus	501
+Parupeneus chrysopleuron	502
+Parupeneus cyclostomus	502
+Parupeneus heptacanthus	502, 503
+Parupeneus indicus	503
+Parupeneus jansenii	503
+Parupeneus macronemus	503
+Parupeneus pleurostigma	504
+Parupeneus trifasciatus	504
+Pasiphaea unispinosa	50
+Pastinachus ater	208
+Pateobatis bleekeri	208
+Pateobatis fai	208
+Pateobatis jenkinsii	209
+Pegasus volitans	355
+Pegophysema philippiana	97
+Pelates quadrilineatus	400
+Pellona ditchela	304
+Pempheris flavicycla	507, 508
+Pempheris malabarica	508
+Pempheris vanicolensis	508
+Penaeus	24, 25
+Penaeus (Fenneropenaeus) indicus	41
+Penaeus (Fenneropenaeus) merguiensis	42
+Penaeus (Fenneropenaeus) penicillatus	42
+Penaeus (Marsupenaeus) japonicus	43
+Penaeus (Marsupenaeus) pulchricaudatus	8, 43
+Penaeus (Melicertus) canaliculatus	43
+Penaeus (Melicertus) latisulcatus	44
+Penaeus (Melicertus) longistylus	44
+Penaeus (Penaeus) monodon	45
+Penaeus (Penaeus) semisulcatus	45
+Penaeus semisulcatus	4
+Pennahia anea	495
+Pennahia ovata	495
+Pentaprion longimanus	465
+Peristedion	242, 370
+Peristedion liorhynchus	370
+Perna viridis	92
+Perulibatrachus cf. aquilonarius	328
+Photolateralis stercorarius	441
+Photonectes sp.	228
+Photopectoralis aureus	442
+Photopectoralis bindus	442
+Physalia	579
+Physiculus	9
+Physiculus roseus	322
+Pinctada	87
+Pinctada margaritifera	92
+Pinctada maxima	5, 93
+Pinctada radiata	93
+Pinjalo	250
+Pinjalo lewisi	455
+Pinjalo pinjalo	456
+Pirenella cingulata	109
+Pisodonophis boro	278
+Pisodonophis cancrivorus	278
+Platax	260
+Platax orbicularis	552
+Platax teira	553
+Platybelone argalus	335
+Platycéphale indien	375
+Platycephalus	375
+Platycephalus indicus	375
+Platyrhina psomadakisi	197
+Plectorhinchus albovittatus	467
+Plectorhinchus ceylonensis	467
+Plectorhinchus chaetodonoides	467
+Plectorhinchus flavomaculatus	468
+Plectorhinchus gibbosus	468
+Plectorhinchus lineatus	468
+Plectorhinchus macrospilus	469
+Plectorhinchus picus	469
+Plectorhinchus spp.	467
+Plectorhinchus unicolor	469
+Plectorhinchus vittatus	470
+Plectranchias sp. 1	395
+Plectranchias sp. 2	396
+Plectrogenium nanum	367
+Plectropomus	7
+Plectropomus pessuliferus	396
+Pleistacantha pungens	76
+Plesiobatis daviesi	211
+Plesionika quasigrandis	54
+Plesionika semilaevis	28
+Plesiops auritus	245
+Plicofollis dussumieri	310
+Plicofollis platystomus	311
+Plotosus canius	305
+Plotosus lineatus	305
+Plotosus spp.	305
+Podophthalmus vigil	80
+Poecilopsetta colorata	593
+Pogonoperca punctata	8
+Polydactylus microstoma	498, 499
+Polydactylus plebeius	498
+Polydactylus sexfilis	499
+Polydactylus sextarius	499
+Polydactylus siamensis	499
+Polyipnus indicus	228
+Polymetme corythaeola	228
+Polymixia fusca	320
+Polynemus melanochir	500
+Polynemus paradiseus	500
+Pomacanthus annularis	514
+Pomacanthus imperator	514
+Pomadasys	251
+Pomadasys andamanensis	470
+Pomadasys argenteus	470
+Pomadasys argyreus	471
+Pomadasys furcatu	471
+Pomadasys guoraca	8
+Pomadasys kaakan	471
+Pomadasys maculatus	472
+Pomadasys olivaceus	472
+Pomadasys spp.	470
+Pomadasys trifasciatus	472
+Pomadasys unimaculatus	473
+Pomatomus saltatrix	414
+Portunus	6
+Portunus pelagicus	81, 82
+Portunus reticulatus	82
+Portunus sanguinolentus	81
+Priacanthus blochii	401
+Priacanthus hamrur	402
+Priacanthus macracanthus	402
+Priacanthus prolixus	402
+Priacanthus sagittarius	403
+Priacanthus tayenus	403
+Prionace glauca	180
+Pristiapogon fraenatus	410
+Pristigenys refulgens	403
+Pristipomoides auricilla	456
+Pristipomoides filamentosus	456
+Pristipomoides multidens	457
+Pristipomoides sieboldii	457
+Pristipomoides typus	457
+Pristipomoides zonatus	458
+Pristis clavata	193
+Pristis pristis	193
+Pristis zijsron	194
+Pristotis obtusirostris	522
+Prognichthys brevipinnis	346
+Proscyllium magnificum	170
+Protonibea diacantha	496
+Psammoperca waigiensis	379
+Psenes arafurensis	579
+Psenes cyanophrys	579
+Psenes pellucidus	580
+Psenopsis cyanea	577
+Psenopsis obscura	577
+Psettina profunda	591, 592
+Psettina variegata	592
+Psettodes erumei	582
+Pseudanthias emma	396
+Pseudanthias gibbosus	397
+Pseudanthias pillai	397
+Pseudanthias rubrizonatus	397
+Pseudapocryptes elongatus	550
+Pseudobalistes flavimarginatus	608
+Pseudobalistes fuscus	608
+Pseudochromis andamanensis	245
+Pseudochromis caudalis	245
+Pseudorhombus argus	583
+Pseudorhombus arsius	583
+Pseudorhombus cinnamoneus	584
+Pseudorhombus dupliciocellatus	584
+Pseudorhombus elevatus	584
+Pseudorhombus javanicus	585
+Pseudorhombus malayanus	585
+Pseudorhombus megalops	585
+Pseudorhombus natalensis	586
+Pseudorhombus neglectus	586
+Pseudorhombus quinquocellatus	586
+Pseudorhombus triocellatus	587
+Pseudotriacanthus strigilifer	604
+Ptereleotris	259
+Ptereleotris microlepis	259
+Pteria	87
+Pteria penguin	94
+Pterocaesio chrysozona	460
+Pterocaesio marri	461
+Pterocaesio pisang	461
+Pterocaesio randalli	461
+Pterocaesio spp.	460
+Pterocaesio tessellata	462
+Pterocaesio tile	462
+Pterois antennata	360
+Pterois miles	360
+Pterois russelii	360
+Pteroplatytrygon violacea	209
+Pteropsaron indicum	537
+Pterotolithus maculatus	496
+Pterygotrigla	242, 369, 370
+Pterygotrigla cf. arabica	369, 370
+Pterygotrigla hemisticta	370
+Pterygotrigla macrorhynchus	370
+Puelurus sewelli	55, 62
+Pycnocraspedum cf. squamipinne	326
+Pycnocraspedum squamipinne	326
+Pyramodon ventralis	327
+Rachycentron canadum	414
+Raconda russeliana	304
+Rajella sp.	202
+Ranina ranina	6, 70
+Ranzania laevis	629
+Rastrelliger brachysoma	571
+Rastrelliger faughni	572
+Rastrelliger kanagurta	572
+Rastrellinger brachysoma	572
+Rastrellinger kanagurta	6
+Remora remora	415
+Rexea bengalensis	567
+Rhabdamia gracilis	246
+Rhabdamia gracilis	8
+Rhabdosargus sarba	474
+Rhina ancylostoma	194
+Rhincodon typus	7, 157, 167
+Rhinecanthus rectangulus	609
+Rhinobatos annandalei	195
+Rhinobatos lionotus	195
+Rhinobatos ranongensis	196
+Rhinomugil corsula	8
+Rhinoptera javanica	213, 214
+Rhinoptera jayakari	214
+Rhizophora	2
+Rhizoprionodon acutus	180
+Rhizoprionodon oligolinx	181
+Rhynchobatus	186
+Rhynchobatus australiae	194
+Rhynchobatus laevis	195
+Rhynchoconger squaliceps	285
+Rhynchorhamphus georgii	340
+Roa jayakari	513
+Rochia nilotica	107
+Rogadius melanopterus	376
+Rogadius pristiger	376
+Rogadius serratus	376
+Rogadius tuberculatus	377
+Ruvettus pretiosus	262, 567
+Saccostrea cuccullata	96
+Sacura sanguinea	398
+Samaris cristatus	267, 593, 594
+Samariscus huysmani	594
+Samariscus maculatus	594
+Samaris macrolepis	594
+Sarda orientalis	572
+Sardinella albella	291
+Sardinella brachysoma	291
+Sardinella daniva	288
+Sardinella fimbriata	292
+Sardinella gibbosa	292
+Sardinella lemuru	292
+Sardinella melanura	293
+Sardinella spp.	293
+Sargocentron caudimaculatum	353
+Sargocentron diadema	353
+Sargocentron melanospilos	353
+Sargocentron praslin	354
+Sargocentron spiniferum	354
+Sargocentron spp.	353
+Satyrichthys laticeps	371
+Satyrichthys milleri	371
+Saurenchelys sp.	281
+Saurida lessepsianus	313
+Saurida longimanus	314
+Saurida micropectoralis	314
+Saurida spp.	313
+Saurida tumbil	314
+Saurida undosquamis	314
+Sauromuraenesox vorax	280
+Scalicus investigatoris	371, 372
+Scalicus orientalis	372
+Scalicus serrulatus	372
+Scarus caudofasciatus	530
+Scarus frenatus	530
+Scarus ghobban	530
+Scarus maculipinna	531
+Scarus niger	531
+Scarus quoyi	531
+Scarus rubroviolaceus	532
+Scarus russelii	532
+Scarus viridifucatus	532
+Scatophagus argus	553
+Scoliodon cf. laticaudus	181
+Scoliodon laticaudus	8
+Scolopsis	251
+Scolopsis affinis	484
+Scolopsis bilineata	485
+Scolopsis ciliata	485
+Scolopsis margaritifera	485
+Scolopsis monogramma	486
+Scolopsis sp. B	486
+Scolopsis taenioptera	486
+Scolopsis vosmeri	486, 487
+Scolopsis xenochrous	487
+Scomber	263
+Scomberoides	248
+Scomberoides commersonnianus	429
+Scomberoides lysan	430
+Scomberoides tala	430
+Scomberoides tol	430
+Scomberomorus	263, 573
+Scomberomorus commerson	573, 574
+Scomberomorus guttatus	573
+Scomberomorus guttatus	573, 574
+Scomberomorus koreanus	573
+Scomberomorus lineolatus	574
+Scombrolabrax heterolepis	563
+Scorpaenopsis neglecta	361
+Scorpaenopsis obtusa	361
+Scorpaenopsis oxycephala	361
+Scorpaenopsis possi	362
+Scorpaenopsis ramaraoi	362
+Scylla olivacea	65, 82
+Scylla serrata	65, 82, 83
+Scylla spp.	4, 5, 83
+Scylla tranquebarica	83
+Selar boop	431
+Selar crumenophthalmus	431
+Selaroides leptolepis	431
+Sepia aculeata	120
+Sepia brevimana	121
+Sepiadarium kochii	126
+Sépia inerme	125
+Sepia kobiensis	121
+Sepia latimanus	122
+Sepia lycidas	122
+Sepia pharaonis	123
+Sepia prashadi	123
+Sepia recurvirostra	124
+Sepia stellifera	124
+Sepiella inermis	125
+Sepioteuthis lessoniana	127
+Seriolina nigrofasciata	432
+Setarches guentheri	357
+Setarches longimanus	357
+Setipinna	296
+Setipinna breviceps	296
+Setipinna taty	296
+Setipinna tenuifilis	297
+Setipinna wheeleri	297
+Sicyonia parajaponica	46
+Siganus argenteus	553
+Siganus canaliculatus	554
+Siganus corallinus	554
+Siganus fuscescens	554
+Siganus guttatus	555
+Siganus javus	555
+Siganus puelloides	555
+Siganus spinus	556
+Siganus spp.	553
+Siganus stellatus	556
+Siganus sutor	556
+Siganus vermiculatus	557
+Siganus virgatus	557
+Sigmops elongatus	228
+Sillaginopodys chondropus	411
+Sillaginopsis domina	411
+Sillago aeolus	412
+Sillago ingenuua	412
+Sillago sihama	412
+Sinobatis andamanensis	203
+Siphamia tubifer	8, 246
+Sirembo jerdoni	327
+Snyderina guentheri	364
+Solenocera choprai	47
+Solenocera crassicornis	48
+Solenocera halli	48
+Sonneratia	2
+Sphagemacrurus richardi	322
+Sphoeroides pachygaster	624
+Sphyraena barracuda	564
+Sphyraena forsteri	564
+Sphyraena jello	564, 566
+Sphyraena obtusata	565
+Sphyraena pinguis	565
+Sphyraena putnamae	565, 566
+Sphyraena qenie	566
+Sphyrna lewini	182
+Sphyrna mokarran	182
+Sphyrna zygaena	183
+Spottobrotula mahodadi	327
+Spratelloides	225
+Spratelloides delicatulus	293
+Spratelloides gracilis	293
+Squilloides leptosquilla	22
+Stegostoma fasciatum	166
+Stegostoma tigrinum	166
+Stemonosudis rothschildi	230
+Sthenoteuthis oualaniensis	135
+Stichopus chloronotus	152
+Stichopus herrmanni	152
+Stichopus horrens	153
+Stichopus variegatus	152
+Stolephorus andhraensis	297
+Stolephorus baganensis	297
+Stolephorus baweanensis	8
+Stolephorus commersonnii	298
+Stolephorus indicus	298
+Stolephorus insularis	298
+Stolephorus waitei	299
+Strongylura leiura	335
+Strongylura strongylura	336
+Strophidon sathete	275
+Sudis hyalina	230
+Sufflamen bursa	609
+Sufflamen chrysopterum	609
+Suggrundus macracanthus	377
+Sunagocia carbunculus	377
+Sunagocia otaitensis	378
+Symbolophorus evermanni	319
+Symphysanodon cf. katayamai	398
+Symphysanodon cf. maunaloae	399
+Symphysanodon cf. xanthopterygion	399
+Synagrops aff. japonicus	381
+Synaphobranchus affinis	272
+Synchiropus cf. altivelis	545
+Synodus cf. randalli	316
+Synodus dermatogenys	314
+Synodus hoshinonis	315
+Synodus indicus	315
+Synodus jaculum	315
+Synodus macrops	316
+Synodus randalli	8
+Synodus spp.	314
+Synodus variegatus	316
+Syringodium isotoefolium	3, 4
+Taeniamia fucata	410
+Taenioides nigrimarginatus	550
+Taeniura lymma	209
+Taeniurops meyeni	210
+Takifugu oblongus	624
+Talismania	227
+Talparia talpa	114
+Taningia danae	134
+Taractichthys steindachneri	443
+Tectus pyramis	107
+Tegillarca granosa	91
+Tegillarca nodifera	91
+Telatrygon crozieri	210
+Temera cf. hardwickii	201
+Tentoriceps cristatus	568
+Tenualosa ilisha	6, 293
+Tenualosa toli	294
+Terapon jarbua	400
+Terapon theraps	401
+Tetrapturus	264
+Tetrapturus angustirostris	577
+Tetronarce aff. formosa	201
+Tetrosomus concatenatus	616
+Tetrosomus gibbosus	616
+Thalassia hemprichii	4
+Thalassina	2
+Thalassoma	256
+Thalassoma lunare	527
+Thamnaconus multilineatus	613
+Thelenota ananas	153
+Thenus	6, 55
+Thenus cf. parindicus	64
+Thenus indicus	55, 63, 64
+Thenus orientalis	63
+Thenus parindicus	64
+Thryssa	299–302
+Thryssa baelama	299
+Thryssa dussumieri	299
+Thryssa hamiltonii	300
+Thryssa kammalensis	300
+Thryssa mystax	300
+Thryssa setirostris	301
+Thryssa spinidens	301
+Thryssa stenosoma	301
+Thryssa vitrirostris	302
+Thryssina	299–302
+Thunnus	263, 574
+Thunnus albacares	574, 575
+Thunnus obesus	574
+Thunnus tonggol	575
+Thysanophrys celebica	378
+Thysanophrys chiltonae	378
+Torquigener brevipinnis	625
+Torquigener brevipinnis	624
+Torquigener florealis	625
+Tosarhombus longimanus	592
+Tosarhombus nielseni	592
+Trachinocephalus myops	317
+Trachinocephalus trachinus	317
+Trachinotus	248
+Trachinotus africanus	432
+Trachinotus baillonii	433
+Trachinotus blochii	433
+Trachinotus botla	433
+Trachinotus spp.	432
+Trachipterus cf. trachypterus	319
+Trachysalambria aspera	46
+Triacanthodes ethiops	603
+Triacanthus biaculeatus	604
+Triacanthus nieuhofii	604
+Triaenodon	159
+Triaenodon obesus	181
+Trichiurus lepturus	6, 569
+Trichonotus cf. setiger	537
+Trichonotus setiger	8
+Tridacna	87
+Tridacna gigas	98
+Tridacna maxima	99
+Tridacna squamosa	99
+Triplophos hemingi	228
+Tripodichthys oxycephalus	605
+Tripterodon	260
+Trixiphichthys weberi	605
+Trypauchen pelaeos	551
+Trypauchen vagina	551
+Turbo argyrostomus	108
+Turbo marmoratus	108
+Tydemania navigatoris	603
+Tylerius spinosissimus	625
+Tylosurus acus	336
+Tylosurus acus melanotus	336
+Tylosurus crocodilus	336
+Tylosurus crocodilus crocodilus	336
+Ulua mentalis	434
+Ulva	2
+Upeneus spp.	504
+Upeneus guttatus	504
+Upeneus margarethae	505
+Upeneus moluccensis	505
+Upeneus sulphureus	505
+Upeneus sundaicus	506
+Upeneus supravittatus	506
+Upeneus tragula	506
+Upeneus vittatus	507
+Uranoscopus affinis	535
+Uranoscopus cognatus	535
+Uranoscopus kaianus	535
+Uranoscopus oligolepis	536
+Uraspis helvola	434
+Uraspis uraspis	434
+Uroconger cf. lepturus	285
+Urogymnus asperrimus	210
+Urogymnus granulatus	211
+Urogymnus polylepis	211
+Uropterygius xanthopterus	275
+Uroteuthis (Photololigo) chinensis	128
+Uroteuthis (Photololigo) duvaucelii	128
+Uroteuthis (Photololigo) edulis	129
+Uroteuthis (Photololigo) machelae	8, 129
+Uroteuthis (Photololigo) sibogae	130
+Uroteuthis (Photololigo) singhalensis	130
+Valamugil buchanani	519
+Varuna litterata	86
+Varuna yui	86
+Volegalea cochlidium	117
+Wattsia mossambica	479
+Xenentodon cf. cancila	337
+Xenocephalus australiensis	536
+Xenomystax trucidans	285
+Xiphasia setifer	258, 543
+Xiphias gladius	575
+Xiphocheilus typus	528
+Xiphonectes hastatoides	84
+Xylocarpus	2
+Xyrias revulsus	279
+Yongeichthys nebulosus	551
+Zameus squamulosus	163
+Zanclus cornutus	557
+Zebrasoma	261
+Zebrasoma desjardinii	562
+Zebrasoma scopas	563
+Zebrias altipinnis	597
+Zebrias quagga	597
+Zebrias synapturoides	598
+Zenopsis nebulosa	355
